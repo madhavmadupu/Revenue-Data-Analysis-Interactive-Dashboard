@@ -1,5 +1,5 @@
 
-# 📊 Revenue Data Analysis & Interactive Dashboard
+# Revenue Data Analysis & Interactive Dashboard
 
 ## 📌 Project Overview
 
